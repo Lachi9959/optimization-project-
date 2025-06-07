@@ -1,0 +1,9 @@
+ProfitOptimizationProject/
+├── README.md                         # Project overview and instructions
+├── profit_maximization_problem.py   # Main Python script with PuLP code
+├── profit_optimization.ipynb        # Jupyter Notebook (optional)
+├── requirements.txt                 # List of required Python packages
+├── output/
+│   └── result.txt                   # Output log or results (optional)
+├── docs/
+│   └── Project_Report.docx          # Your formatted project report
